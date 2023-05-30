@@ -124,15 +124,15 @@ nav .menu-list{
  }
  .card .card-tag .green-tag{
     background-color: #24cc96;
-    padding: 4px;
+    padding: 6px;
     border-radius: 10px;
     color: white;
  }
  .card .card-tag .yellow-tag{
     background-color: #000047;
-    padding: 4px;
+    padding: 6px;
     border-radius: 10px;
-    color: black;
+    color: white;
  }
  .card p{
     margin-top: 24px;

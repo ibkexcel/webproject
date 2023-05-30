@@ -223,7 +223,7 @@ nav .menu-list{
    justify-content: center;
    align-items: center;
 }
-.socials-container{
+.socials-container h1{
       text-align: center;
       font-size: 52px;
       margin-bottom: 38px;
@@ -238,4 +238,13 @@ nav .menu-list{
    background-color: #24cc96;
    padding: 10px 12px;
    border-radius: 100%;
+}
+/* Footer */
+footer{
+   background-color: yellowgreen;
+   color: #0c0b0b;
+   text-align: center;
+   width: 100%;
+   padding: 36px 72px;
+   font-size: 30px;
 }

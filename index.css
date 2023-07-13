@@ -333,11 +333,11 @@ footer{
       margin-bottom: 10px;
    }
    .socials{
-      padding: 100px 60px 100px 60px;
+      padding: 100px 100px 100px 100px;
    }
    .social-icons span{
-      margin-right: 2px;
-      margin-inline: 0vh;
+      margin-right: 0px;
+      
    }
 
 

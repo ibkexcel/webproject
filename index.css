@@ -243,13 +243,12 @@ nav .menu-list{
    background-color: #24cc96;
    padding: 14px 18px;
    border-radius: 100%;
-   margin-inline: 0;
 }
 #navbar span a{
    display: inline-block;
    margin-right: 24px;
    color: rgb(238, 216, 216);
-   padding: 4px 8px;
+   padding: 2px 4px;
    margin-inline: 0;
   text-align: center;
 }

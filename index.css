@@ -21,6 +21,9 @@ nav{
     justify-content: space-between;
     align-items: center;
 }
+nav a{
+   color: #fff;
+}
 nav h2{
     color: #fff;
     font-size: 48px;
@@ -37,6 +40,14 @@ nav .menu-list{
 }
 
 /* hero styling */
+#mybtn{
+color: white;
+background-color: lightskyblue;
+border-radius: 16px;
+padding-bottom: 4px;
+border: 2px solid rgb(5, 5, 56);
+font-style: italic;
+}
 .hero{
     background-color: #24cc96;
     color: white;
@@ -244,14 +255,7 @@ nav .menu-list{
    padding: 14px 18px;
    border-radius: 100%;
 }
-#navbar span a{
-   display: inline-block;
-   margin-right: 24px;
-   color: rgb(238, 216, 216);
-   padding: 2px 4px;
-   margin-inline: 0;
-  text-align: center;
-}
+
 /* Footer */
 footer{
    background-color: rgb(120, 20, 214);

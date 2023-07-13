@@ -337,8 +337,11 @@ footer{
    }
    .social-icons span{
       margin-right: 2px;
-      padding-right: 15px;
-      padding-left: 15px;
+      margin-left: 2px;
+      padding-right: 40px;
+      padding-left: 40px;
+       padding-top: 20px;
+      padding-bottom: 20px;
    }
 
 

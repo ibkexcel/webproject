@@ -345,11 +345,12 @@ footer button{
       margin-bottom: 10px;
    }
    .socials{
-      padding: 100px 120px 100px 120px;
+      padding: 100px 80px 100px 80px;
    }
   
  .social-icons span{
       margin-right: 2px;
+    margin-left: 2px
       
    }
 

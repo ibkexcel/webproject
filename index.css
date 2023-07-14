@@ -265,6 +265,15 @@ footer{
    padding: 24px 48px;
    font-size: 20px;
 }
+footer p{
+   padding-bottom: 8px;
+}
+footer button{
+   color: #127bdd;
+   background-color: #95dd0e;
+   border: 2px solid red;
+   font-size: medium;
+}
 
 /* Device = Most of the Smartphones Mobiles (Portrait) Screen = Between 320px to 479px */
 @media(min-width: 320px) and (max-width: 480px){

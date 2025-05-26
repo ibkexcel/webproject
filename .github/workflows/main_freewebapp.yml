@@ -61,4 +61,6 @@ jobs:
           app-name: 'freewebapp'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A221D4B34303423699EEA4FA2CBE7528 
+
+
